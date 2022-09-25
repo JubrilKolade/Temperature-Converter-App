@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+} 
+
+body {
+  background-color: rgb(222, 222, 241);
+}
+
+.container {
+    width: 100%;
+}
+
+.rowq {
+   
+    margin-top: 15%;
+}
+.card-group {
+    margin-right: 50px;
+}
+.card {
+    border: 5px solid rgba(27, 27, 163, 0.753); 
+}
+
+.resultSection {
+    background: rgba(27, 27, 163, 0.753);
+    border: none;
+}
+
+input {
+    border: 1px solid rgba(27, 27, 163, 0.753);
+}
+
+#resultValueSection {
+    display: flex;
+}
